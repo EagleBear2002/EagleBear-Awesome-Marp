@@ -1,6 +1,8 @@
 
 [✨ README-en](https://github.com/favourhong/Awesome-Marp/blob/main/README-en.md)、[🎉 README-zh](https://github.com/favourhong/Awesome-Marp/blob/main/README.md)
 
+本仓库主要修改内容为 将不常用字体替换为常用字体，无需另外下载商用字体。
+
 # Awesome Marp：轻松取代 LaTeX Beamer！
 
 ## 为什么要做 Awesome Marp？
